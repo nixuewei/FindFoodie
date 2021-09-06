@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation   Searches recipe from https://www.foodie.fi/
+Documentation   Searches recipe from https://www.foodie.fi/22222
 ...             Prints number of recipes found and writes it to a file
 ...             Give variable in command line using --variable RECIPE_TO_SEARCH:pasta
 ...             If recipe is not given, defaults to pizza
